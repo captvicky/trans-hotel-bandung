@@ -1,0 +1,3 @@
+type=cdir;sizd=19;modify=20230708193714;UNIX.mode=0755;UNIX.uid=1000;UNIX.gid=1000;unique=fd01g4079ce4; .
+type=pdir;sizd=66;modify=20230708193713;UNIX.mode=0755;UNIX.uid=1000;UNIX.gid=1000;unique=fd01g2968b61; ..
+type=file;size=286846;modify=20230708193714;UNIX.mode=0644;UNIX.uid=1000;UNIX.gid=1000;unique=fd01g4079ce5; 0.jpg

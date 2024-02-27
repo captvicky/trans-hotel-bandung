@@ -1,0 +1,6 @@
+type=cdir;sizd=66;modify=20230708170142;UNIX.mode=0755;UNIX.uid=1000;UNIX.gid=1000;unique=fd01g8bff0f; .
+type=pdir;sizd=66;modify=20230708170142;UNIX.mode=0755;UNIX.uid=1000;UNIX.gid=1000;unique=fd01g4000522; ..
+type=file;size=21988;modify=20230708170142;UNIX.mode=0644;UNIX.uid=1000;UNIX.gid=1000;unique=fd01g8bff10; 0_0.jpg
+type=file;size=21045;modify=20230708170142;UNIX.mode=0644;UNIX.uid=1000;UNIX.gid=1000;unique=fd01g8bff11; 0_1.jpg
+type=file;size=20298;modify=20230708170142;UNIX.mode=0644;UNIX.uid=1000;UNIX.gid=1000;unique=fd01g8bff12; 1_0.jpg
+type=file;size=17334;modify=20230708170142;UNIX.mode=0644;UNIX.uid=1000;UNIX.gid=1000;unique=fd01g8bff13; 1_1.jpg
